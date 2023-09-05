@@ -1,7 +1,7 @@
 import './AboutWeb.css';
 import Line from './images/Line.png';
-import LogoWelcome from './Images/learn-coding.png';
-import Scroll from './Images/Scroll.png';
+import LogoWelcome from './images/learn-coding.png';
+import Scroll from './images/Scroll.png';
 
 export const Aboutweb = () => {
   return (
