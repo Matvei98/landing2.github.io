@@ -1,5 +1,5 @@
 import './AboutWeb.css';
-import Line from './Images/Line.png';
+import Line from './images/Line.png';
 import LogoWelcome from './Images/learn-coding.png';
 import Scroll from './Images/Scroll.png';
 
