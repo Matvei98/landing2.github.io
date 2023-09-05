@@ -1,18 +1,18 @@
 import './index.css';
-import Line1 from './Images/Line3.png';
-import Frame from './Images/Frame.png';
-import Post1 from './Images/Post1.png';
-import Post2 from './Images/Post2.png';
-import Post3 from './Images/Post3.png';
-import Post4 from './Images/Post4.png';
-import Post5 from './Images/Post5.png';
-import Post6 from './Images/Post6.png';
-import Post7 from './Images/Post7.png';
-import Post8 from './Images/Post8.png';
-import Post9 from './Images/Post9.png';
-import Post10 from './Images/Post10.png';
-import Post11 from './Images/Post11.png';
-import Post12 from './Images/Post12.png';
+import Line1 from './images/Line3.png';
+import Frame from './images/Frame.png';
+import Post1 from './images/Post1.png';
+import Post2 from './images/Post2.png';
+import Post3 from './images/Post3.png';
+import Post4 from './images/Post4.png';
+import Post5 from './images/Post5.png';
+import Post6 from './images/Post6.png';
+import Post7 from './images/Post7.png';
+import Post8 from './images/Post8.png';
+import Post9 from './images/Post9.png';
+import Post10 from './images/Post10.png';
+import Post11 from './images/Post11.png';
+import Post12 from './images/Post12.png';
 
 export const Articles = () => {
 	return (
